@@ -1,6 +1,5 @@
 import cv2
 
-# 트랙커 객체 생성자 함수 리스트
 TrList = [cv2.legacy.TrackerBoosting_create,
             cv2.TrackerMIL_create,
             cv2.TrackerKCF_create,
