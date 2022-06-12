@@ -1,2 +1,1 @@
-# ML,DL-slef studying
-# 
+# ML,DL by slef studying
